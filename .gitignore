@@ -8,6 +8,7 @@ __pycache__/
 env/
 venv/
 *.env
+eeg_report_env*
 
 # Streamlit
 .streamlit/
