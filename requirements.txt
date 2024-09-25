@@ -1,0 +1,13 @@
+streamlit
+mne
+pydantic
+scikit-learn
+pandas
+numpy
+openai
+anthropic
+python-dotenv
+pytest
+pyedflib
+PyPDF2
+requests
